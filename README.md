@@ -57,7 +57,7 @@ The project incorporates:
 To get a local copy of the project, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/Shreeshanth22/Medical-Care.git
+git clone https://github.com/KushalCodes-7/Medical-Care.git
 ```
 
 ---
@@ -65,7 +65,7 @@ git clone https://github.com/Shreeshanth22/Medical-Care.git
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/KushalCodes7/Medical-Care/issues).  
+Feel free to check the [issues page](https://github.com/KushalCodes-7/Medical-Care/issues).  
 
 ---
 
