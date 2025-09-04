@@ -65,7 +65,7 @@ git clone https://github.com/Shreeshanth22/Medical-Care.git
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/Shreeshanth22/Medical-Care/issues).  
+Feel free to check the [issues page](https://github.com/KushalCodes7/Medical-Care/issues).  
 
 ---
 
